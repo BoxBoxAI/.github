@@ -6,7 +6,7 @@ Hey y’all! Get ready to dive into the world of AI with our innovative platform
 
 ## What’s Cooking in the BoxBoxAI Kitchen?
 
-BoxBoxAI ain't just any website and app, sugar. Here's what we're serving:
+BoxBoxAI ain't just any website and app. Here's what we're serving:
 
 1. **Chat Model Comparison**: 
    - We’re lining up all the chat models you can throw a pair of heels at, so you can compare and find which one's got the sassiest and smartest response for your queries. 
@@ -25,7 +25,7 @@ Ready to jump in? Here's what you need to know:
 
 ## Contributing
 
-Think you’ve got what it takes to make BoxBoxAI the crown jewel of AI platforms? We’d love your contributions, darling! Check out our [contribution guidelines](#).
+Think you’ve got what it takes to make BoxBoxAI the crown jewel of AI platforms? We’d love your contributions! Check out our [contribution guidelines](#).
 
 ## Community
 
